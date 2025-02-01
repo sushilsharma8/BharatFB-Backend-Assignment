@@ -103,6 +103,8 @@ Admin Panel:
 
 FAQ List:
 ![FAQ List](screenshots/faq_list.png)
+![FAQ List Hindi](screenshots/faq_list_hindi.png)
+![FAQ List Bengali](screenshots/faq_list_bengali.png)
 
 ## Docker Commands
 ### Start Redis
