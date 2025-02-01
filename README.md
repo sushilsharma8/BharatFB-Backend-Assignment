@@ -134,9 +134,9 @@ docker exec -it redis redis-cli flushall
 
 # Assignment Requirements Checklist
 
-- Django models with WYSIWYG editor support.
-- Multilingual FAQ storage and retrieval.
-- REST API with language selection.
-- Redis caching for improved performance.
-- Unit tests for models and API.
-- Detailed README with installation and usage instructions.
+- Django models with WYSIWYG editor support.✅
+- Multilingual FAQ storage and retrieval.✅
+- REST API with language selection.✅
+- Redis caching for improved performance.✅
+- Unit tests for models and API.✅
+- Detailed README with installation and usage instructions.✅
